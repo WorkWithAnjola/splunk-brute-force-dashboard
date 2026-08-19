@@ -1,7 +1,7 @@
 # Splunk Detection Dashboard: Brute Force Login Investigation
 
 **Case File for: Brightleaf Consulting**
-**Analyst: Anjola**
+**Analyst: Anjolaoluwa Toriola**
 **Platform: Splunk Enterprise**
 
 ---
